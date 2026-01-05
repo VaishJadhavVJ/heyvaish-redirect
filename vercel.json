@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://third-foundation-aff.notion.site/Portfolio-Content-2df64b3b983f80fc9b39c52a05e0017c",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://third-foundation-aff.notion.site/Portfolio-Content-2df64b3b983f80fc9b39c52a05e0017c",
+      "permanent": false
+    }
+  ]
+}
